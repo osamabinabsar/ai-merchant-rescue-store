@@ -9,6 +9,9 @@ frameworks, no build step, no analytics, no external dependencies.
 - `products/*.zip` - the four product packages (Merchant Fee Audit,
   Chargeback Defense Kit, Bookkeeping Rescue, AI Merchant Suite bundle).
 - `free-merchant-fee-audit-sample.md` - a real excerpt of audit output.
+- `free-chargeback-defense-kit-sample.md` - real excerpt of dispute register/scorecard/packet.
+- `free-bookkeeping-rescue-sample.md` - real excerpt of ledger/P&L/reconciliation.
+- `sample-run-log.md` - exact commands + verification notes for regenerating all samples.
 - `README.md` - this file.
 
 ## Open locally
